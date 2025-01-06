@@ -16,4 +16,4 @@ You must have downloaded or cloned the [GIMI assets repository](https://github.c
 `hash not found for Character` : This means that the character hash could not be found in the assets repository. Check your assets repository whether it contains the dump for the character and whether `hash.json` has the `position_vb` for blank component name or body component.
 `using element other for Character`: This means the element is not known for the character. Update the element lists in `reference.json` accordingly.
 
-https://i.imgur.com/9Dc4YPq.mp4
+![Demo](https://i.imgur.com/9Dc4YPq.mp4)
