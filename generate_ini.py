@@ -21,7 +21,7 @@ traveler_skill = {
     Element.dendro: "0668174a",
     Element.hydro: "7a16f342",
     Element.pyro: "3cae7041",
-    Element.cryo: "invalid",
+    Element.cryo: "00000000",
 }
 
 assets_path = "../../../GI-Model-Importer-Assets/PlayerCharacterData"
